@@ -1,0 +1,1 @@
+Проба testng с контейнером postgres
